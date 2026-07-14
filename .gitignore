@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Replit
+.replit_history
+.cache/
+.upm/
+
+# Data directories (user data - don't commit)
+USERS/
+DATA/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
